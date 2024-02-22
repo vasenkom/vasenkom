@@ -1,8 +1,8 @@
 ### Hi there 👋
 My name is Marina and I am junior front-end developer.
-- 🔭 I’m currently working on my first portfolio.
+- 💅 I’m currently working on my first portfolio.
 - 🌱 I’m currently learning JavaScript, React, TypeScript.
-- ⚡ I already know basics of Python, Bash and have a good understanding of HTML and CSS.
+- 🌺 I already know basics of Python, Bash and have a good understanding of HTML and CSS.
 
 <!--
 **vasenkom/vasenkom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
