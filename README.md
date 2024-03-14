@@ -5,6 +5,8 @@ My name is Marina and I am junior front-end developer.
 - 🌺 During my time at university, I gained a solid foundation in Python and Bash, laying the groundwork for my programming journey.
 - ✨ Through self-study, I've already gained a strong understanding of HTML and CSS, essential tools for creating web designs.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasenkom&layout=compact)
+
 <!--
 **vasenkom/vasenkom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
