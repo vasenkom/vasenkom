@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Marina and I am junior front-end developer.
+My name is Marina and I am junior web developer.
 - 💅 I’m currently working on my first portfolio.
 - 🌱 Now I'm actively learning JavaScript, React, and TypeScript.
 - 🌺 During my time at university, I gained a solid foundation in Python and Bash, laying the groundwork for my programming journey.
