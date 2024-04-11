@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Marina and I am junior web developer.
 - 💅 I’m currently working on my first portfolio.
-- 🌱 Now I'm actively learning JavaScript, React, and TypeScript.
+- 🌱 Now I'm learning JavaScript, React, and TypeScript.
 - 🌺 During my time at university, I gained a solid foundation in Python and Bash, laying the groundwork for my programming journey.
 - ✨ Through self-study, I've already gained a strong understanding of HTML and CSS, essential tools for creating web designs.
 
